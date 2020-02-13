@@ -1,6 +1,6 @@
 echo -e "\033[1;31m[\033[1;32m*\033[1;31m] installing...."
 sleep 0.6
-termux-open-url https://www.youtube.com/channel/UCls7q-ir3eglE_94-iD2GCQ
+termux-open-url https://www.youtube.com/channel/UCQuGjfmo04jDd6zlBscslGQ
 apt update -y & apt upgrade -y 
 pkg install php -y
 pkg install wget -y
