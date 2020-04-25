@@ -15,7 +15,7 @@ echo -e $b"        |_|"
 echo -e $p"         By:OOMD_NOOR"
 echo -e $y'###########################################'
 echo''
-termux-open-url https://youtu.be/h0_ojGWz8vY
+#termux-open-url https://youtu.be/h0_ojGWz8vY
 echo -e $c"{1} open port php"
 echo ''
 echo -e $c"{2} open port ngrok"
