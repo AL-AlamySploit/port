@@ -12,10 +12,10 @@ echo -e $r"        | '_ \ / _ \| '__| __|"
 echo -e $b"        | |_) | (_) | |  | |_"
 echo -e $b"        | .__/ \___/|_|   \__|"
 echo -e $b"        |_|"
-echo -e $p"         By:OOMD_NOOR"
-echo -e $y'###########################################'
+echo -e $p"         By:A7Y Team"
+echo -e $y'##########################################'
 echo''
-#termux-open-url https://youtu.be/h0_ojGWz8vY
+termux-open-url https://www.youtube.com/channel/UCQuGjfmo04jDd6zlBscslGQ
 echo -e $c"{1} open port php"
 echo ''
 echo -e $c"{2} open port ngrok"
